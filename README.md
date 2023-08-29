@@ -12,7 +12,7 @@
 ## 🧰 Languages
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omvr-yr&theme=white-green" alt="otahina" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omvr-yr&theme=white-blue" alt="omvr-yr" />
 </p>
 
 
