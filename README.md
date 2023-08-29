@@ -11,10 +11,7 @@
 
 ## 🧰 Languages
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omvr-yr&theme=white-blue" alt="omvr-yr" />
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omvr-yr&layout=compact&langs_count=8&hide=CSS)
 
 ## 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=omvr-yr&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,prs&border_color=000000)
