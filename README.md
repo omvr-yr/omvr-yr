@@ -6,7 +6,7 @@
 
 📂  Take a look at my <a href="https://github.com/omvr-yr?tab=repositories">projects</a><br>
 
-📨  You can write me at : omarkonate430@gmail.com <br><br>
+📨  You can write me at : omar@konate.pro <br><br>
 
 
 ## 🧰 Languages
