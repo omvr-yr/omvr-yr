@@ -9,4 +9,4 @@
 
 ## 🧰 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omvr-yr&layout=compact&langs_count=8&hide=CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omvr-yr&layout=compact&langs_count=8)
