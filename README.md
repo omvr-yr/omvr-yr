@@ -1,6 +1,6 @@
 ### Welcome to my Github page  📝 <br><br>
 
-🏬  Founder of <a href="https://scio.education">SCIO</a> <br>
+🏬  Founder of <a href="https://hugoapp.fr">Hugo</a> <br>
 
 🗂️  Take a look at my <a href="https://github.com/omvr-yr?tab=repositories">projects</a> or at my <a href="https://omar.konate.pro">portfolio</a><br>
 
